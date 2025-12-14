@@ -1,0 +1,7 @@
+DESCRIÇÃO DESAFIO 02 - CALCULO DE IMC
+
+Neste desafio, você será encarregado de desenvolver uma aplicação em Kotlin
+que calcula o índice de massa corporal (IMC) de um usuário a partir dos
+dados fornecidos de peso e altura. O objetivo é criar uma aplicação interativa, onde o usuário
+poderá inserir seu peso (em quilogramas) e altura (em metros) e, em seguida, recebrá
+seu IMC juntamente com uma classificação de acordo com os padrões da OMS.

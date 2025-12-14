@@ -1,0 +1,37 @@
+DESCRIÇÃO DESAFIO 03 - CONTROLE DE ESTOQUE
+
+Neste desafio, você será responsável por criar uma aplicação que funcione
+como um sistema de controle de estoque de produtos.
+
+REQUISITOS
+
+Um produto possuirá as seguintes propriedades obrigatórias:
+ID,Nome,Preço,Quantidade.
+
+ENTRADA DE DADOS:
+
+A aplicação deve fornecer um menu interativo para que o
+usuário possa realizar as seguintes ações:
+
+1) Inserir Produto no Estoque:
+
+    Permitir que o usuário adicione novos produtos ao estoque.
+    Cada produto deve ter um identificador único, nome,quantidade e preço.
+
+2) Atualizar Produto:
+
+    Permitir que o usuário atualize as informações de um produto existente
+    no estoque. O usuário deve poder alterar o nome, quantidade e preço do produto.
+
+3) Deletar produto:
+
+    Permitir que o usuário remova um produto do estoque com base no
+    identificador único.
+
+4) Buscar Produtos
+
+    Permitir que o usuário busque um produto específico no estoque
+    através do identificador único.
+
+5) Sair da Aplicação:
+    Diferenciar a opção de encerrar o programa de forma segura.
