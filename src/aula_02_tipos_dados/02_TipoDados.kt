@@ -20,5 +20,8 @@ fun main(){
     // boolean
     val boolean: Boolean = true
 
+    // conversão
+    var text = "5"
+    val numberFromstring = Integer.parseInt(text)
 
 }

@@ -8,11 +8,11 @@ fun main(){
 
 fun melhorCombustivel(){
     println("Insira o preço por litro da GASOLINA: ")
-    println("R$ ")
+    print("R$ ")
     val precoGasolina = readlnOrNull()?.toDoubleOrNull()
 
     println("Insira o preço por litro do ETANOL:")
-    println("R$ ")
+    print("R$ ")
     val precoEtanol = readlnOrNull()?.toDoubleOrNull()
 
     if (precoGasolina == null || precoEtanol == null){
