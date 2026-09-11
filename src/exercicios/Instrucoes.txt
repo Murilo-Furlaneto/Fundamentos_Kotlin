@@ -1,0 +1,14 @@
+=== LABORATÓRIO DE PRÁTICA KOTLIN ===
+
+Aqui você encontrará desafios para fixar o que aprendeu.
+
+Pastas:
+/coroutines -> Exercícios sobre launch, async, await e tratamento de erros.
+/flow       -> Exercícios sobre fluxos reativos, operadores e StateFlow.
+
+Dicas:
+1. Tente resolver sem olhar os arquivos de explicação na pasta API.
+2. Se travar, consulte os arquivos 01, 02 e 03 da pasta API correspondente.
+3. Use 'runBlocking' nos mains para facilitar a execução dos testes.
+
+Bons estudos!
